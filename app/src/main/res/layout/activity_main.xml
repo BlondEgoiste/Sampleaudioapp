@@ -55,4 +55,14 @@
         android:text="test"
         android:background="#FFFF00"
         android:textSize="90dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Test text"
+        android:gravity="center"
+        android:background="@android:color/holo_purple"
+        android:layout_margin="10dp"
+        android:textSize="30dp"/>
 </LinearLayout>
